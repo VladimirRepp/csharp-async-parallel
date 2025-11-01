@@ -32,7 +32,7 @@
 
 **Ключевой класс:** `System.Diagnostics.Process`
 
-** Дополнительные материалы:**
+**Дополнительные материалы:**
 - https://github.com/VladimirRepp/CS---ChildeProcesses
 - https://github.com/VladimirRepp/CS---CreateProcess
 - https://github.com/VladimirRepp/CS---SimpleProcess
@@ -51,10 +51,10 @@
   - **I/O-bound** (сеть, диск, БД) — идеально для `async/await`
   - **CPU-bound** (вычисления) — лучше использовать `Task.Run`
  
-** Дополнительные материалы:**
-https://github.com/VladimirRepp/CS---Multithreading
-https://github.com/VladimirRepp/CS---AsynkTaskParallel
-https://github.com/VladimirRepp/CS---PoolThreads
+**Дополнительные материалы:**
+- https://github.com/VladimirRepp/CS---Multithreading
+- https://github.com/VladimirRepp/CS---AsynkTaskParallel
+- https://github.com/VladimirRepp/CS---PoolThreads
 
 ### [Модуль 4. Синхронизация](./Module%204%20-%20Synchronization)
 
@@ -75,8 +75,8 @@ https://github.com/VladimirRepp/CS---PoolThreads
 - Используйте неизменяемые структуры
 - Никогда не блокируйте поток в `async` методе (кроме `await`)
 
-** Дополнительные материалы:**
-https://github.com/VladimirRepp/CS---SynchronizationMethodsUsingThread
+**Дополнительные материалы:**
+- https://github.com/VladimirRepp/CS---SynchronizationMethodsUsingThread
 
 ### [Модуль 5. Параллельное программирование](./Module%205%20-%20Parallel%20Programming)
 
@@ -96,8 +96,8 @@ https://github.com/VladimirRepp/CS---SynchronizationMethodsUsingThread
 - Разделение данных между потоками
 - Агрегация результатов
 
-** Дополнительные материалы:**
-https://github.com/VladimirRepp/CS---AsynkTaskParallel
+**Дополнительные материалы:**
+- https://github.com/VladimirRepp/CS---AsynkTaskParallel
 
 ### [Модуль 6. Динамически подключаемые библиотеки](./Module%206%20-%20Dynamic%20Libraries)
 
@@ -114,10 +114,10 @@ https://github.com/VladimirRepp/CS---AsynkTaskParallel
 - Загрузка реализаций по конфигурации
 - "Горячая" замена модулей
 
-** Дополнительные материалы:**
-https://github.com/VladimirRepp/CS---AppDomain
-https://github.com/VladimirRepp/CS---RunTwoAppUsingAppDoman
-https://github.com/VladimirRepp/CS---AssemblyAndModule
+**Дополнительные материалы:**
+- https://github.com/VladimirRepp/CS---AppDomain
+- https://github.com/VladimirRepp/CS---RunTwoAppUsingAppDoman
+- https://github.com/VladimirRepp/CS---AssemblyAndModule
 
 ## Быстрый старт
 
