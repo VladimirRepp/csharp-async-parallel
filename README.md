@@ -105,15 +105,9 @@
 - IDE: [Visual Studio 2022](https://visualstudio.microsoft.com/), [Rider](https://www.jetbrains.com/rider/) или [VS Code](https://code.visualstudio.com/)
 
 ### Запуск примеров
-```bash
-# Клонирование репозитория
-git clone https://github.com/VladimirRepp/csharp-async-parallel.git
-cd csharp-async-parallel
-
-# Запуск конкретного модуля
-cd Module3-ThreadingAsync
-dotnet run
-```
+- здесь приведены примеры кода для решения задач
+- задачи описаны в исходном файле кода
+- для запуска кода потребуется создать новый проект в IDE или редакторе кода с .Net 
 
 ### Заметки по выпуску
-- Module 6 не закончен 
+- Module 6 не закончен (Sample_1 в работе, планиурется еще 3 примера)
