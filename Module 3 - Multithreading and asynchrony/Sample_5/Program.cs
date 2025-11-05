@@ -8,12 +8,7 @@ namespace Samples
     internal class Program
     {
         static async Task Main(string[] args)
-        {
-            // ================= Вспомогательный пример ================= //
-            (total_amount, elepsedMilliseconds) = CaclulateTest();
-            (long, long) resultTest = CaclulateTest();
-            // ================= Вспомогательный пример ================= //
-            
+        {   
             Console.WriteLine("=== Сравнение CPU-bound и I/O-bound операций ===\n");
 
             // Демонстрация информации о потоках
@@ -177,3 +172,4 @@ namespace Samples
         #endregion
     }
 }
+
