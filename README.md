@@ -5,8 +5,9 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Учебный репозиторий с практическими материалами по продвинутым темам C#: работа с унаследованным кодом, управление процессами, многопоточность, асинхронное программирование, синхронизация, параллельные вычисления и динамическая загрузка библиотек. <br/>
-Полезно вспомнить: 
-- [Пример использования делегатов и событий](https://github.com/VladimirRepp/CS---Async-Parallel-Advanced/blob/main/Полезные%20материалы/Sample_DelegateEvent.cs) 
+Общие дополнительные материалы: 
+- [Пример использования делегатов и событий](https://github.com/VladimirRepp/CS---Async-Parallel-Advanced/blob/main/Полезные%20материалы/Sample_DelegateEvent.cs)
+- [Многопоточность - metanit](https://metanit.com/sharp/tutorial/11.1.php)
 
 ## Содержание курса
 
